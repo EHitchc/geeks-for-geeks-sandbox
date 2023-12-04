@@ -1,5 +1,5 @@
 {
-  "name": "ts-template",
+  "name": "leet-code-sandbox-ts",
   "version": "1.0.0",
   "description": "A base template for working with Typescript",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/EHitchc/ts-template.git"
+    "url": "https://github.com/EHitchc/leet-code-sandbox-ts.git"
   },
   "author": "Ethan Hitchcock",
   "lint-staged": {
